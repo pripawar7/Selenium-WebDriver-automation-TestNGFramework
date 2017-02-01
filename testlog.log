@@ -1,0 +1,14 @@
+2016-11-13 18:58:26,565 - CS522_17094_TestNPULoginJunit -INFO - Step 1. Initiate Firefox Browser - Passed
+2016-11-13 18:58:30,306 - CS522_17094_TestNPULoginJunit -INFO - Step 2. Google search and click to open search result - Passed
+2016-11-13 18:58:32,566 - CS522_17094_TestNPULoginJunit -INFO - Step 3. Verify NPU page is loaded - Passed
+2016-11-13 18:58:37,192 - CS522_17094_TestNPULoginJunit -INFO - Step 4. If Apply Online button not found, try - Passed
+2016-11-13 18:58:37,425 - CS522_17094_TestNPULoginJunit -INFO - Step 5. Verify checkbox is not selected - Passed
+2016-11-13 18:58:37,642 - CS522_17094_TestNPULoginJunit -INFO - Step 6. Select check box "I understand and I would like to register a new account - Passed
+2016-11-13 18:58:38,300 - CS522_17094_TestNPULoginJunit -INFO - Step 7. Click link text "Register Account - Passed
+2016-11-13 18:58:39,193 - CS522_17094_TestNPULoginJunit -INFO - Step 8. Verify default new button should select in New Applicant - Passed
+2016-11-13 18:58:39,893 - CS522_17094_TestNPULoginJunit -INFO - Step 9. Select your Gender - Passed
+2016-11-13 18:58:41,240 - CS522_17094_TestNPULoginJunit -INFO - Step 10. Input Given Name, Surname, Email, Password, Confirm Password - Passed
+2016-11-13 18:58:41,507 - CS522_17094_TestNPULoginJunit -INFO - Step 11. Click Save button - Passed
+2016-11-13 18:58:42,330 - CS522_17094_TestNPULoginJunit -INFO - Step 13. Go back to create new account page - Passed
+2016-11-13 18:58:43,222 - CS522_17094_TestNPULoginJunit -INFO - Step 14. Go back to NPU home page - Passed
+2016-11-13 18:58:43,465 - CS522_17094_TestNPULoginJunit -INFO - final step:close browser and exit-passed
